@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pac-Man</title>
+    <style>
+        .container {
+            width: 500px;
+            height: 500px;
+            position: relative;
+            background-color: black;
+        }
+
+        .pacman {
+            width: 0;
+            height: 0;
+            border-top: 40px solid yellow;
+            border-right: 40px solid transparent;
+            border-bottom: 40px solid transparent;
+            border-left: 40px solid transparent;
+            border-radius: 50%;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(45deg);
+            animation: chomp 1s infinite;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            background-color: white;
+            border-radius: 50%;
+            position: absolute;
+            animation: eat 0.5s infinite;
+        }
+
+        @keyframes chomp {
+            0% {
+                transform: translate(-50%, -50%) rotate(45deg);
+            }
+            50% {
+                transform: translate(-50%, -50%) rotate(-45deg);
+            }
+            100% {
+                transform: translate(-50%, -50%) rotate(45deg);
+            }
+        }
+
+        @keyframes eat {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(0.5);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="pacman"></div>
+        <div class="dot" style="top: 100px; left: 100px;"></div>
+        <div class="dot" style="top: 200px; left: 200px;"></div>
+        <div class="dot" style="top: 300px; left: 300px;"></div>
+        <div class="dot" style="top: 400px; left: 400px;"></div>
+    </div>
+</body>
+</html>
