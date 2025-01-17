@@ -7,16 +7,11 @@
 - **Habilidades:** Desenvolvimento de bots para Discord para automação e interatividade em servidores, criação de sites simples, com foco em funcionalidade e design intuitivo, desenvolvimento de scripts e códigos que facilitam tarefas do dia a dia e aumentam a produtividade, HTML, CSS, JavaScript, Python, entre outras.    
 
 ---
-
-## **Tecnologias:**  
-- **Frontend:**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" /> HTML  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" /> CSS  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" /> JavaScript
-
-- **Backend:**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" /> Python   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" /> Node.js
+ 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
