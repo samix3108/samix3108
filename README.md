@@ -3,7 +3,7 @@
 - **Idade:** 21  
 - **Localidade:** São Paulo, Brasil  
 - **Computador:** Asus Vivobook X1500EA  
-- **Sistema:** Linux Mint 22 Cinnamon Edition  
+- **Sistema:** Arch Linux  
 - **Habilidades:** Desenvolvimento de bots para Discord para automação e interatividade em servidores, criação de sites simples, com foco em funcionalidade e design intuitivo, desenvolvimento de scripts e códigos que facilitam tarefas do dia a dia e aumentam a produtividade, HTML, CSS, JavaScript, Python, entre outras.    
 
 ---
