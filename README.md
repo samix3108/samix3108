@@ -1,10 +1,10 @@
-## **Informações Básicas**  
-- **Nome:** samix3108 (samix)  
-- **Idade:** 21  
-- **Localidade:** São Paulo, Brasil  
-- **Computador:** Asus Vivobook X1500EA  
-- **Sistema:** Arch Linux  
-- **Habilidades:** Ainda sou um iniciante que procuro aprender e melhorar minhas habilidades aos poucos :) 
+## **Basic Information**  
+- **Name:** samix3108 (samix)  
+- **Age:** 21  
+- **Location:** São Paulo, Brasil  
+- **Computer:** Asus Vivobook X1500EA  
+- **System:** Arch Linux  
+- **Skills:** Ainda sou um iniciante que procuro aprender e melhorar minhas habilidades aos poucos :) 
 
 ---
  
@@ -15,6 +15,6 @@
 
 ---
 
-## **Linguagens:**  
-- **Linguagens Mais Usadas:**  
+## **Languages:**  
+- **Most Used Languages:**  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samix3108&layout=compact&theme=radical)  
