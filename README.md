@@ -1,10 +1,10 @@
 ## **Basic Information**  
 - **Name:** samix3108 (samix)  
 - **Age:** 21  
-- **Location:** São Paulo, Brasil  
+- **Location:** São Paulo, Brazil  
 - **Computer:** Asus Vivobook X1500EA  
 - **System:** Arch Linux  
-- **Skills:** Ainda sou um iniciante que procuro aprender e melhorar minhas habilidades aos poucos :) 
+- **Skills:** I'm still a beginner looking to learn and improve my skills gradually :) 
 
 ---
  
