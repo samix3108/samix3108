@@ -3,7 +3,7 @@
 - **Age:** 21  
 - **Location:** São Paulo, Brazil  
 - **Computer:** Asus Vivobook X1500EA  
-- **System:** Linux Mint 
+- **System:** Linux :)
 - **Skills:** I'm still a beginner looking to learn and improve my skills gradually :) 
 
 ---
